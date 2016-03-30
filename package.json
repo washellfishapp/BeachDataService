@@ -1,0 +1,35 @@
+{
+  "name": "beachdataservice",
+  "version": "0.1.0",
+  "description": "a service that provides data for public beaches in Washington state, USA. This is a very first version that just use static data. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "monitor": "nodemon app.js",
+    "deploy": "gcloud preview app deploy app.yaml",
+    "lint": "jshint --exclude-path=../.gitignore .",
+    "mocha": "mocha test/index.js -t 30000",
+    "test": "npm run lint && npm run mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washellfishapp/BeachDataService.git"
+  },
+  "author": "Min Yang",
+  "license": "Apache Version 2.0",
+  "bugs": {
+    "url": "https://github.com/washellfishapp/BeachDataService/issues"
+  },
+  "homepage": "https://github.com/washellfishapp/BeachDataService#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=0.12.7"
+  }
+}

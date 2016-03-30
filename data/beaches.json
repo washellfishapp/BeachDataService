@@ -1,0 +1,419 @@
+{
+	"updated" : "1459381588",
+	"beach": [
+	{
+		"name": "BIRCH BAY STATE PARK",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/200060/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/209/"
+	},
+    {
+		"name": "DNR-24",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/280820/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/1624/"
+	},
+    {
+		"name": "Illahee State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/260380/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 7,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 7,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/310/"
+	},
+    {
+		"name": "Frye Cove County Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/281140/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2306/"
+	},
+    {
+		"name": "Indian Island County Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250410/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 7,
+			"begin_day": 1,
+			"end_month": 8,
+			"end_day": 15
+		}, {
+			"type": "oyster",
+			"begin_month": 7,
+			"begin_day": 1,
+			"end_month": 8,
+			"end_day": 15
+		}],
+		"tide_url": "http://www.tides.net/washington/2172/"
+	},
+    {
+		"name": "Kopachuck State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/280570/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 6,
+			"begin_day": 1,
+			"end_month": 7,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 3,
+			"begin_day": 1,
+			"end_month": 7,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/1203/"
+	},
+    {
+		"name": "Mystery Bay State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250300/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 4,
+			"end_day": 30
+		}, {
+			"type": "clam",
+			"begin_month": 10,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 4,
+			"end_day": 30
+		}, {
+			"type": "oyster",
+			"begin_month": 10,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/1731/"
+	},
+    {
+		"name": "North Bay",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/280710/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}, {
+			"type": "clam",
+			"begin_month": 9,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 30
+		}, {
+			"type": "oyster",
+			"begin_month": 9,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 30
+		}, {
+			"type": "oyster",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/48/"
+	},
+    {
+		"name": "Oak Bay County Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250400/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/1862/"
+	},
+    {
+		"name": "Penrose Point State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/280680/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 3,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}, {
+			"type": "oyster",
+			"begin_month": 3,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}],
+		"tide_url": "http://www.tides.net/washington/1189/"
+	},
+    {
+		"name": "Point Whitney Tidelands",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270170/",
+		"schedule": [{
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 6,
+			"end_day": 30
+		}],
+		"tide_url": "http://www.tides.net/washington/2982/"
+	},
+    {
+		"name": "Point Whitney Lagoon",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270170/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 3,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2982/"
+	},
+    {
+		"name": "Frye Cove County Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/281140/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2306/"
+	},
+    {
+		"name": "Potlatch Beaches",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270440/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 6,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 15
+		}, {
+			"type": "oyster",
+			"begin_month": 6,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 15
+		}],
+		"tide_url": "http://www.tides.net/washington/1542/"
+	},
+    {
+		"name": "Quilcene Bay Tidelands",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270500/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 4,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2227/"
+	},
+    {
+		"name": "Sequim Bay State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250050/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 5,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2454/"
+	},
+    {
+		"name": "Shine Tidelands State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250512/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}],
+		"tide_url": "http://www.tides.net/washington/2133/"
+	},
+    {
+		"name": "Triton Cove Tidelands",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270293/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 6,
+			"begin_day": 15,
+			"end_month": 8,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/2802/"
+	},
+    {
+		"name": "Twanoh State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270460/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 9,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 30
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://www.tides.net/washington/1542/"
+	},
+    {
+		"name": "DNR-44A",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/270380/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 6,
+			"begin_day": 1,
+			"end_month": 9,
+			"end_day": 30
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://tides.net/Washington/2802/"
+	},
+    {
+		"name": "West Penn Cove",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/240150/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 12,
+			"end_day": 31
+		}],
+		"tide_url": "http://tides.net/Washington/620/"
+	},
+    {
+		"name": "Wolfe Property State Park",
+		"official_url": "http://wdfw.wa.gov/fishing/shellfish/beaches/250510/",
+		"schedule": [{
+			"type": "clam",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}, {
+			"type": "oyster",
+			"begin_month": 1,
+			"begin_day": 1,
+			"end_month": 5,
+			"end_day": 15
+		}],
+		"tide_url": "http://tides.net/Washington/965/"
+	}
+	]
+}
